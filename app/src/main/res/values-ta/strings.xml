@@ -164,4 +164,6 @@
     <string name="missing_permissions">அனுமதிகள் இல்லை</string>
     <string name="missing_required_permissions">தேவையான அனுமதியின்றி இயங்க முடியாது.</string>
     <string name="settings_skip_startup_permission_check">தொடக்க இசைவு காசோலையைத் தவிர்க்கவும்</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

@@ -87,4 +87,6 @@
     <string name="call_denied">نپذیرفتن</string>
     <string name="contact_menu_delete">پاک کردن</string>
     <string name="invalid_qr_code_data">داده‌ی نامعتبر</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

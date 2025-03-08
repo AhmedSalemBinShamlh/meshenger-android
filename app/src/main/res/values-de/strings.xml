@@ -155,4 +155,6 @@
     <string name="warning_no_addresses_configured">Keine Adresse im QR-Code.</string>
     <string name="warning_no_addresses_found">Konfigurierte Adresse nicht gefunden. Hat das Netzwerk gewechselt?</string>
     <string name="wrong_password">Falsches Passwort</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

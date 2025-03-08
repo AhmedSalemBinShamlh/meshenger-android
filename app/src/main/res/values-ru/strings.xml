@@ -154,4 +154,6 @@
     <string name="warning_no_addresses_configured">Адрес для QR-кода не задан.</string>
     <string name="warning_no_addresses_found">Настроенные адреса не найдены. Изменилась ли сеть?</string>
     <string name="wrong_password">Плохой пароль</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
+    <string name="app_name">Ahmed Meshenger</string>
 </resources>

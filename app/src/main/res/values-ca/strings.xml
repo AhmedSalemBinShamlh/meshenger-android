@@ -154,4 +154,6 @@
     <string name="warning_no_addresses_configured">No heu configurat cap adreça per al codi QR.</string>
     <string name="warning_no_addresses_found">No s\'han trobat les adreces configurades. Potser heu canviat de xarxa?</string>
     <string name="wrong_password">Contraseña incorrecta</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

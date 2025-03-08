@@ -154,4 +154,6 @@
     <string name="warning_no_addresses_configured">No hay ninguna dirección configurada para el código QR.</string>
     <string name="warning_no_addresses_found">No se encontró la dirección configurada. ¿Ha cambiado la red?</string>
     <string name="wrong_password">Contraseña incorrecta</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
+    <string name="app_name">Ahmed Meshenger</string>
 </resources>

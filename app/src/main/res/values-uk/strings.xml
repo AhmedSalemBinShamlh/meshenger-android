@@ -114,4 +114,6 @@
     <string name="warning_no_addresses_configured">Адреса для QR-коду не налаштована.</string>
     <string name="warning_no_addresses_found">Налаштовані адреси не знайдено. Змінилася мережа?</string>
     <string name="wrong_password">Неправильний пароль</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

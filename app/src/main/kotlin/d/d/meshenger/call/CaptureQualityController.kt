@@ -4,12 +4,8 @@ import android.view.View
 import android.widget.*
 import android.widget.SeekBar.OnSeekBarChangeListener
 import d.d.meshenger.*
-import d.d.meshenger.Utils
 import org.webrtc.CameraEnumerationAndroid.CaptureFormat
-import org.webrtc.RtpParameters
 import java.util.*
-import kotlin.math.exp
-import kotlin.math.roundToInt
 
 /**
  * Control capture format based on a seekbar listeners.

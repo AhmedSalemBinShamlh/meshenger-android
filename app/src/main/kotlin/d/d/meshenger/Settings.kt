@@ -33,7 +33,7 @@ class Settings {
     var cameraResolution = "auto"
     var cameraFramerate = "auto"
     var automaticStatusUpdates = true
-    var themeName = "sky_blue"
+    var themeName = "fire_red"
     var skipStartupPermissionCheck = false
     var audioBitrateMax = "auto" // not used yet
     var videoBitrateMax = "auto" // not used yet

@@ -80,4 +80,6 @@
     <string name="warning_no_addresses_configured">Nenhum endereço para o código QR está definido.</string>
     <string name="warning_no_addresses_found">Endereços configurados não encontrados. A rede foi alterada?</string>
     <string name="wrong_password">Senha incorreta</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

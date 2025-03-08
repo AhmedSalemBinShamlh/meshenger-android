@@ -146,4 +146,6 @@
     <string name="unknown_caller">未知來電者</string>
     <string name="warning_no_addresses_found">找不到已配置的位址。網路有變化嗎？</string>
     <string name="wrong_password">密碼錯誤</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

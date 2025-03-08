@@ -26,9 +26,9 @@
                 android:id="@+id/toolbar_label"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text=""
+                android:text="@string/programmer"
                 android:textSize="@dimen/title_text_size"
-                android:visibility="gone" />
+                android:visibility="visible" />
 
         </androidx.appcompat.widget.Toolbar>
 

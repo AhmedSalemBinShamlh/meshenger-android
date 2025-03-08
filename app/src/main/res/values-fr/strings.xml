@@ -154,4 +154,6 @@
     <string name="warning_no_addresses_configured">Aucune adresse pour le code QR n\'est configurée.</string>
     <string name="warning_no_addresses_found">Adresses configurées introuvables. Le réseau a-t-il changé ?</string>
     <string name="wrong_password">Mot de passe non valide</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

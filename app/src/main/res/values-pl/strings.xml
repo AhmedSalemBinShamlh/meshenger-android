@@ -46,4 +46,6 @@
     <string name="settings_addresses">Adresy*</string>
     <string name="settings_name">Nazwa</string>
     <string name="settings_theme_name">Motyw</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>

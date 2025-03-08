@@ -119,4 +119,6 @@
     <string name="warning_no_addresses_configured">Ingen adresse for QR-kode oppsatt.</string>
     <string name="warning_no_addresses_found">Fant ingen oppsatte adresser. Har nettverket endret seg?</string>
     <string name="wrong_password">Feil passord</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
+    <string name="app_name">Ahmed Meshenger</string>
 </resources>

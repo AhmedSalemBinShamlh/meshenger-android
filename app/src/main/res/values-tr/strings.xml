@@ -66,4 +66,6 @@
     <string name="contact_menu_qrcode">QR kod</string>
     <string name="button_cancel">İptal</string>
     <string name="menu_settings">Ayarlar</string>
+    <string name="app_name">Ahmed Meshenger</string>
+    <string name="programmer">Ahmed Salem Bin Shamlh</string>
 </resources>
